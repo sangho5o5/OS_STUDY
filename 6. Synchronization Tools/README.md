@@ -9,7 +9,7 @@
 | 원재성 | Background | [Link]()|
 | 정현재 | The Critical Section Problem | [Link]()|
 | 이상훈 | Peterson's Solution |[Link](./docs/peterson.md)|
-| 김상호 | Hardware Support for Synchronization |[Link](./docs/hardware/6.4-Hardware-Support-for-Synchronization.md)|
+| 김상호 | Hardware Support for Synchronization |[Link]()|
 
 
 <br>
